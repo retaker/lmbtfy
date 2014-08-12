@@ -2,6 +2,9 @@
 <html>
 	<head>
 		<meta name="renderer" content="webkit" charset="utf-8">
+		<meta name="author" content="Retaker">
+		<meta name="keywords" content="let me baidu that for you, 让我帮你百度一下, baidu, retaker,i@retaker.me">
+		<meta name="description" content="有趣的网页,装逼必备,让我帮你百度一下！,调戏小伙伴">
 		<script src=killie.js></script>
 		<title>让我帮你百度一下</title>
 		<?php if($_GET["q"]==""){ ?>
