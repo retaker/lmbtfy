@@ -14,7 +14,7 @@
 		<script type="text/javascript" src="ZeroClipboard.min.js"></script>
 		<center style="margin-top:50px;">
 			<div id="logo">
-				<span>let me</span>
+				<span>let me</span><span style="display:none;">baidu</span>
 				<img src="bdlogo.png" id="bdlogo"/>
 				<span>that for you</span>
 			</div>
